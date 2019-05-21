@@ -33,6 +33,9 @@
     <ClCompile Include="drawBase.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="drawline.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -51,6 +54,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="drawBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="drawline.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
